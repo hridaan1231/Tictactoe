@@ -80,4 +80,9 @@ body{
 #cont {
   display: none;
 }
-
+#image{
+    height:250px;
+    width:250px;
+      background-image:url("tictactoe.png") ;
+      background-size:contain ;
+}
