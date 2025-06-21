@@ -49,6 +49,6 @@ open index.html
 
 ## 📂 Project Structure
 ├── index.html
-├── style.css
-└── script.js
+├── tictactoe.css
+└── tictactoe.js
 
